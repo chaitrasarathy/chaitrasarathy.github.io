@@ -1,2 +1,1 @@
-# chaitrasarathy.github.io
-my personal website
+[chaitrasarathy's website](https://chaitrasarathy.github.io/)
